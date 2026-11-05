@@ -1,6 +1,6 @@
-# Hola, soy Juanlayaa 👋
+# Hola, soy Juanlayaa
 
-Desarrollador web en 🇻🇪 Venezuela. Construyo páginas web, tiendas en **Shopify** y automatizaciones con **n8n** e **IA** para negocios que quieren vender más y trabajar menos.
+Desarrollador web. Construyo páginas web, tiendas en **Shopify** y automatizaciones con **n8n** e **IA** para negocios que quieren vender más y trabajar menos.
 
 ### 🛠️ Lo que hago
 - 🌐 **Páginas web** a medida, rápidas y pensadas para convertir
